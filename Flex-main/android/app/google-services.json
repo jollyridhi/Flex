@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852748338428",
+    "project_id": "flex-eb4d6",
+    "storage_bucket": "flex-eb4d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852748338428:android:d40e723387002561854379",
+        "android_client_info": {
+          "package_name": "com.vittesharora.flex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCKPFTuGo50LCSW_OieflxOKX_buaQ-6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
