@@ -2,7 +2,7 @@ Flex - Your Personal Workout Recommendation App
 Flex is your all-in-one fitness companion designed to help you achieve your health and wellness goals. Whether you’re looking to lose weight, build muscle, or maintain a healthy lifestyle, Flex provides personalized workout recommendations, food calorie tracking, and water intake logging to keep you on track.
 
 Features
-🏋️‍♂️ Personalized Workout Recommendations
+🏋️‍♂️ Personalized Workout Recommendations -
 Get customized workout plans tailored to your fitness level and goals.
 Choose from various workout types: strength training, cardio, yoga, and more.
 Progress tracking to monitor your improvements over time.
